@@ -14,6 +14,8 @@
   <a href="https://x.com/Adarsh2423"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.instagram.com/adlan2423/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:adarshmilan92@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://portfoliyo-zeta-indol.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://play.google.com/store/apps/developer?id=2Hex&hl=en_IN"><img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=Adarshmilan&style=for-the-badge&color=36BCF7&label=Profile+Views" />
 </p>
 
@@ -21,7 +23,9 @@
 
 ## 👋 About Me
 
-I'm **Adarsh Milan**, a B.Tech Computer Science student who loves turning ideas into working products. I've built everything from full-stack esports platforms and campus delivery apps to a Godot mobile game, an Android app, Telegram bots and real-time socket servers.
+I'm **Adarsh Milan**, a B.Tech Computer Science student who loves turning ideas into working products. I've built everything from full-stack esports platforms and campus delivery apps to mobile games, an Android app, Telegram bots and real-time socket servers.
+
+I don't just build projects, I ship products: **UniCart** has **200+ real users** (and growing), **Cyborg City** has **200+ players**, and my games are published on the **Google Play Store**.
 
 These days my focus is clear: **I'm learning Artificial Intelligence and Deep Learning, and that's where I see my future.** I'm building neural networks from scratch in PyTorch (MLPs, CNNs, Wide & Deep models) and already shipping AI-powered apps with LLMs like Gemini.
 
@@ -100,6 +104,47 @@ class AdarshMilan:
 
 ---
 
+## 🚀 Live Products – Used by Real People
+
+> These aren't just practice projects. They're live, and real people use them every day.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/UniCart-200%2B%20real%20users%20%26%20growing-brightgreen?style=for-the-badge&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cyborg%20City-200%2B%20players-blueviolet?style=for-the-badge&logo=gamejolt&logoColor=white" />
+  <a href="https://play.google.com/store/apps/developer?id=2Hex&hl=en_IN"><img src="https://img.shields.io/badge/2Hex%20Games-Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" /></a>
+</p>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🛒 UniCart
+A campus marketplace where students post what they need and fellow students deliver it for a fee. **200+ real users, and the count is still growing.**
+
+`Live` `Real users` `Campus delivery`
+
+</td>
+<td width="33%" valign="top">
+
+### 🎮 [Cyborg City](https://cyborgcity.vercel.app)
+Full-stack **Free Fire tournament platform** with teams, match registration, Razorpay payments, a live leaderboard, an admin panel and PWA support. **200+ players compete on it.**
+
+`React` `Node.js` `Supabase` `Razorpay` `PWA`
+
+</td>
+<td width="33%" valign="top">
+
+### 🕹️ [My Games on Google Play](https://play.google.com/store/apps/developer?id=2Hex&hl=en_IN)
+My games are published on the Play Store under **2Hex**. My newest, [**GateBreak**](https://github.com/Adarshmilan/GateBreak), a merge tower-defense zombie game, is **in Play Store review now** 🚀
+
+`Godot 4` `GDScript` `Android`
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🌟 Featured Projects
 
 <table>
@@ -110,24 +155,6 @@ class AdarshMilan:
 Draw a math problem on a canvas and AI solves it. Handles expressions, equations, variables, diagram word-problems and even abstract drawings.
 
 `Python` `FastAPI` `Gemini 2.5 Flash` `React` `TypeScript` `MathJax`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎮 [Cyborg City](https://cyborgcity.vercel.app)
-Full-stack **Free Fire tournament platform** – teams, match registration, Razorpay payments, live leaderboard, admin panel and PWA support. **Live & in use.**
-
-`React` `Node.js` `Express` `Supabase` `Razorpay` `PWA`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧟 [GateBreak](https://github.com/Adarshmilan/GateBreak)
-Mobile **merge tower-defense** game. Merge 3D turrets, survive zombie waves and bosses, with endless scaling levels and permanent upgrades.
-
-`Godot 4` `GDScript` `Shaders` `Android`
 
 </td>
 <td width="50%" valign="top">
