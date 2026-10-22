@@ -169,10 +169,6 @@ Convolutional Neural Network in PyTorch for handwritten digit recognition, reach
   <img src="https://streak-stats.demolab.com?user=Adarshmilan&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adarshmilan&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-</p>
-
 ---
 
 <p align="center">
